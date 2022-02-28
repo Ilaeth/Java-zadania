@@ -14,6 +14,9 @@ public class Main {
         Animal dog = new Animal("dog", "Hawana");
 
         me.getterSalary();
+        me.setterSalary(-50000);
+        me.getterSalary();
+        me.setterSalary(50000);
         me.getterSalary();
     }
 }
