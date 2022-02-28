@@ -12,5 +12,8 @@ public class Main {
         Human me = new Human("Przemek", "Podlecki", "123456789", cat, bmw);
 
         Animal dog = new Animal("dog", "Hawana");
+
+        me.getterSalary();
+        me.getterSalary();
     }
 }
